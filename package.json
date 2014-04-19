@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "liandong liu"
+  },
+  "contacts": [
+    "liu@liandong.org"
+  ],
+  "name": "randomdata",
+  "description": "randomdata",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/linkwisdom/randomdata.git"
+  },
+  "keywords": [
+    "randomdata",
+    "mock",
+    "random"
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "jasmine-node ./spec"
+  },
+  "license": "BSD",
+  "readmeFilename": "docs/README.md"
+}
